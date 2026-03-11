@@ -112,8 +112,8 @@
   {
     "id": 11,
     "name": "Aplikasi Surxrat V5",
-    "category": "Lainnya",
-    "price": 55.000,
+    "category": "Sadap",
+    "price": 55000,
     "unit": "permanen",
     "description": "Surxrat v5 adalah sebuah aplikasi khusus android yang bisa menjadi aplikasi sadap jarak jauh untuk hp lain. Dengan akses lifetime (selamanya) dengan full penbaruan dan full pembelajaran untuk semua cara caranya.",
     "icon": "\ud83d\udd27",
@@ -123,8 +123,8 @@
   {
     "id": 12,
     "name": "Aplikasi Premium",
-    "category": "Lainnya",
-    "price": 10.000,
+    "category": "Aplication",
+    "price": 10000,
     "unit": "per account",
     "description": "Aplikasi premium yang memungkinkan aplikasi yang memiliki fitur berbayar kalian menjadi terbuka, dengan aplikasi premium mendengar lagu, menonton film, edit video, hd foto dan video menjadi lebih mudah.",
     "icon": "\ud83d\udd27",
@@ -134,8 +134,8 @@
 {
     "id": 13,
     "name": "Join Partner Store",
-    "category": "Lainnya",
-    "price": 75.000,
+    "category": "Partner",
+    "price": 75000,
     "unit": "per account",
     "description": "Join Partner store, yang memungkinkan anda membuka store sendiri dengan banyak benefit yang saya berikan. Dan mendapatkan penghasilan yang anda nikmatin sendiri.",
     "icon": "\ud83d\udd27",
